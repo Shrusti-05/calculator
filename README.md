@@ -6,5 +6,5 @@ CSS: The styling leverages modern CSS techniques, including Flexbox and Grid. Cu
 
 JavaScript: The core functionality is powered by  JavaScript, demonstrating how to handle user inputs, perform calculations, and dynamically update the display. 
 
-This calculator project is a foundational step in web development, offering a hands-on approach to learning and improving coding skills. Whether you're a beginner looking to understand the basics or an experienced developer seeking a simple yet effective project, this calculator serves as a perfect example of what can be achieved with HTML, CSS, and JavaScript.
+This calculator project is a foundational step in web development, offering a hands-on approach to learning and improving coding skills. This calculator serves as a perfect example of what can be achieved with HTML, CSS, and JavaScript.
 
